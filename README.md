@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hello-muhammad-hamza
+- 👋 Hi, I’m Muhammad Hamza
 - 👀 I’m interested in Python backend development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python backend development communities.
